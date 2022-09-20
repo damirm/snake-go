@@ -12,3 +12,4 @@
 |<kbd>j</kbd>| Move down |
 |<kbd>k</kbd>| Move up |
 |<kbd>l</kbd>| Move right |
+|<kbd>q</kbd>| Quit |
